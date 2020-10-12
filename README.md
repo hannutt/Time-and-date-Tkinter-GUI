@@ -1,5 +1,4 @@
 # Time-and-date
-
 This program includes the following functions:
 
 -A real-time clock in finnish time.(Made with Python time library and after method)
